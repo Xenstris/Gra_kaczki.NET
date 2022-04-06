@@ -1,0 +1,10 @@
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\bin\Debug\Zadanie 2.exe.config
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\bin\Debug\Zadanie 2.exe
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\bin\Debug\Zadanie 2.pdb
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie 2.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie_2.Form1.resources
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie_2.Properties.Resources.resources
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie 2.csproj.GenerateResource.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie 2.exe
+C:\Users\Użytkownik\Desktop\C#\Zadanie 2\Zadanie 2\obj\Debug\Zadanie 2.pdb

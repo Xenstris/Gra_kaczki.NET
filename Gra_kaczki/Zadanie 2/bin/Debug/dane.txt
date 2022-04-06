@@ -1,0 +1,100 @@
+Wynik to: 6/10
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 2311
+Wynik to: 10/12
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 1822
+Wynik to: 53/28
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 2165
+Wynik to: 1/46
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 197
+Wynik to: 
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 1875
+Wynik to: 0/87
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 205
+Wynik to: 0/30
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 190
+Wynik to: 0/1
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 1761
+Wynik to: 0/2
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 1848
+Wynik to:  
+Czas gry wyniósł:  [System.Windows.Forms.Timer], Interval: 2342
+Data i godzina gry: 2021-03-08 19:36:52.Wynik to: 7/8
+Data i godzina gry: 2021-03-08 19:38:35. Wynik to: 1/1
+Data i godzina gry: 2021-03-08 19:38:44. Wynik to: 
+Data i godzina gry: 2021-03-08 19:38:57. Wynik to: 9/9
+Data i godzina gry: 2021-03-08 19:45:17. Wynik to: 11/12
+Data i godzina gry: 2021-03-08 19:50:20. Wynik to: 9/14
+Data i godzina gry: 2021-03-08 19:52:11. Wynik to: 15/17
+Data i godzina gry: 2021-03-08 19:53:32. Wynik to: 10/41
+Data i godzina gry: 2021-03-08 19:59:32. Wynik to: 7/8
+Data i godzina gry: 2021-03-08 19:59:34. Wynik to: 1/1
+Data i godzina gry: 2021-03-08 19:59:35. Wynik to:  
+Data i godzina gry: 2021-03-08 19:59:37. Wynik to:  
+Data i godzina gry: 2021-03-08 19:59:38. Wynik to:  
+Data i godzina gry: 2021-03-08 20:01:14. Wynik to: 
+Data i godzina gry: 2021-03-08 20:01:15. Wynik to:  
+Data i godzina gry: 2021-03-08 20:01:46. Wynik to: 26/26
+Data i godzina gry: 2021-03-08 20:06:17. Wynik to: 21/28
+Data i godzina gry: 2021-03-08 20:06:27. Wynik to: 13/13
+Data i godzina gry: 2021-03-08 20:11:44. Wynik to: 1/1
+Data i godzina gry: 2021-03-08 20:12:44. Wynik to: 20/43
+Data i godzina gry: 2021-03-08 20:12:59. Wynik to: 5/7
+Data i godzina gry: 2021-03-08 20:20:18. Wynik to: 2/7
+Data i godzina gry: 2021-03-08 20:21:00. Wynik to: 18/28
+Data i godzina gry: 2021-03-08 20:21:02. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:03. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:04. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:05. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:07. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:13. Wynik to: 0/7
+Data i godzina gry: 2021-03-08 20:21:28. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:30. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:31. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:33. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:35. Wynik to:  
+Data i godzina gry: 2021-03-08 20:21:37. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:39. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:21:49. Wynik to: 0/12
+Data i godzina gry: 2021-03-08 20:22:08. Wynik to: 
+Data i godzina gry: 2021-03-08 20:22:10. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:15. Wynik to: 0/2
+Data i godzina gry: 2021-03-08 20:22:17. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:21. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:22. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:24. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:25. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:26. Wynik to:  
+Data i godzina gry: 2021-03-08 20:22:33. Wynik to: 0/2
+Data i godzina gry: 2021-03-08 20:22:50. Wynik to: 0/8
+Data i godzina gry: 2021-03-08 20:22:52. Wynik to:  
+Data i godzina gry: 2021-03-08 20:23:52. Wynik to: 8/45
+Data i godzina gry: 2021-03-08 20:24:02. Wynik to: 0/4
+Data i godzina gry: 2021-03-08 20:24:03. Wynik to: 0/1
+Data i godzina gry: 2021-03-08 20:24:06. Wynik to: 0/3
+Data i godzina gry: 2021-03-08 20:25:25. Wynik to: 0/18
+Data i godzina gry: 2021-03-08 20:27:06. Wynik to: 0/78
+Data i godzina gry: 2021-03-09 14:06:26. Wynik to: 1/3
+Data i godzina gry: 2021-03-09 14:10:21. Wynik to: 2/11
+Data i godzina gry: 2021-03-09 14:18:52. Wynik to: 2/3
+Data i godzina gry: 2021-03-09 14:19:03. Wynik to: 13/4
+Data i godzina gry: 2021-03-09 14:21:59. Wynik to: 0/19
+Data i godzina gry: 2021-03-09 14:24:06. Wynik to: 8/8
+Nazwa gracza: . Data i godzina gry: 2021-03-09 14:27:27. Wynik to: 0/0
+Nazwa gracza: Xenstris. Data i godzina gry: 2021-03-09 14:27:40. Wynik to: 4/4
+Nazwa gracza: . Data i godzina gry: 2021-03-09 14:29:26. Wynik to: 5/5
+Nazwa gracza: . Data i godzina gry: 2021-03-09 14:30:03. Wynik to: 5/13
+Nazwa gracza: . Data i godzina gry: 2021-03-09 14:30:55. Wynik to: 11/12
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:30:52. Wynik to: 13/17
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:32:49. Wynik to: 10/10
+Nazwa gracza: Maciek. Data i godzina gry: 2021-03-09 21:33:52. Wynik to: 3/8
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:11. Wynik to: 0/0
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:13. Wynik to: 0/0
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:14. Wynik to: 0/0
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:14. Wynik to: 0/0
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:15. Wynik to: 0/0
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:34:17. Wynik to: 1/1
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:38:29. Wynik to: 2/2
+Nazwa gracza: . Data i godzina gry: 2021-03-09 21:39:46. Wynik to: 28/54
+Nazwa gracza: Xenstris. Data i godzina gry: 2021-03-14 16:35:40. Wynik to: 5/9
+Nazwa gracza: Maciej. Data i godzina gry: 2021-05-31 19:35:16. Wynik to: 2/16
+Nazwa gracza: Xenstrs. Data i godzina gry: 2022-01-07 21:42:12. Wynik to: 14/35
